@@ -1,4 +1,4 @@
-# LangChain Docs
+# LangChain Docs.
 
 🦜 **Welcome!** This repository contains the documentation build pipeline for LangChain projects.
 
